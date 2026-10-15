@@ -9,3 +9,94 @@
     margin: 80px auto 88px;
 }
 
+#titlepage p {
+    color: #E1624F;
+    font-size: 16px;
+    font-weight: bold;
+    text-transform: uppercase;
+    font-family: "Open Sans", sans-serif;
+    margin-bottom: 8px;
+}
+
+h1 {
+    font-family: "Open Sans", sans-serif;
+    color: black
+}
+
+img {
+    border-radius: 28px;
+}
+
+#DescriptionImage img {
+    margin-top: 40px;
+    margin-bottom: 24px;
+}
+
+#DescriptionImage p {
+    font-family: 'Open Sans', sans-serif;
+    font-style: italic;
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+#title p{
+    color: #E1624F;
+    font-size: 16px;
+    text-transform: uppercase;
+    font-family: "Open Sans", sans-serif;
+    margin-top: 64px;
+    font-weight: bold;
+}
+
+h2{
+    font-family: "Open Sans", sans-serif;
+    font-weight: bold;
+    font-size: 32px;
+}
+
+h3{
+    font-family: "Open Sans", sans-serif;
+    font-weight: bold;
+    font-size: 28px;
+    padding-top: 20px;
+
+}
+
+.cardtravel .contentcard p{
+    font-family: "Open Sans", sans-serif;
+    font-size: 16px;
+}
+
+
+#titlelist p{
+    font-family: "Open Sans", sans-serif;
+    font-size: 16px;
+    text-align: left;
+}
+
+#titlelist{
+    margin-bottom: 64px;
+}
+
+.cardtravel{
+    margin-bottom: 48px;
+}
+
+.Desc{
+    text-align: center;
+    font-family: "Open Sans", sans-serif;
+    margin-top: 40px;
+    font-size: 16px;
+}
+
+
+footer {
+    text-align: center;
+    padding-bottom: 48px;
+    font-size: 16px;
+    font-family: "Alice", serif;
+}
+
+footer img {
+    vertical-align: middle;
+}
