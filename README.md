@@ -12,7 +12,7 @@ O exercício está concentrado no front-end: transformar um layout de referênci
 
 ## Demonstração
 
-O vídeo abaixo apresenta uma comparação lado a lado: à esquerda, o layout de referência no Figma; à direita, minha implementação no navegador. A rolagem permite acompanhar as diferentes seções da página.
+O vídeo abaixo apresenta minha implementação no navegador. A rolagem permite acompanhar as diferentes seções da página.
 
 
 
